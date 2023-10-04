@@ -1,0 +1,36 @@
+04.10.2023 | Pikabot | TA577
+
+*************************************************
+
+.url https://aipccoaching.com/nide/
+.zip b6269018ac32484bdc093a6bec324fc9aa7990104a297f55600d31bff95ed6fd pw = 678
+.dll 5a5154c5843a18d3912063b827ef541a709aec4132b847d75d7e634683acff8d
+
+*************************************************
+
+zip > lnk > curl > dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\WX.pdf.lnk
+
+regsvr32.exe /s /u /i:i1v\zN\JI\eWJM\MVst\qI\1Q52\uURq\QIPJ\J4Xw\J6V\CO\bOs8\GMV\N53B\bow.sct scrobj.dll
+
+rundll32.exe i1v\zN\JI\eWJM\MVst\qI\1Q52\uURq\QIPJ\J4Xw\J6V\CO\bOs8\GMV\N53B\xSa.log, HUF_inc_var
+
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
+*************************************************
+
+c2'
+
+https://102.129.139.65:32999
+https://79.141.175.96:2078
+https://167.86.96.3:2222
+https://144.64.204.81:2078
+https://45.131.108.250:1194
+https://38.242.240.28:1194
