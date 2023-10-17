@@ -21,6 +21,14 @@ PIng -n 4 TR
 
 RUNdll32 C:\Users\Admin\AppData\Local\Temp\TR.log, CrashForExceptionExportThunk
 
+System32\SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
 *************************************************
 
 distro url
@@ -37,7 +45,17 @@ http://116.203.159.191/yAGmH/Exped
 
 c2'
 
-https://185.106.94.174:5000/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Ony
+url request pattern:
+
+https://185.106.94.174:5000/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.174:5000/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.177:13721/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://80.85.140.43:9785/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.152:13720/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.167:5631/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://80.85.140.152:5938/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.174:5000/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
+https://185.106.94.177:13721/CouncillaryConurbation/ChPfsiBdKMzP4y?EpisiotomiesComendite=GovernorAntherozoidal&antipyics=CouncillaryConurbation&isocymene=Onychorrhexis
 
 185.106.94.174:5000
 185.106.94.177:13721
