@@ -20,6 +20,18 @@ pinG  -n 4 xrN
 
 RUndLl32  C:\Users\Admin\AppData\Local\Temp\xrN.dll, Crash
 
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
+rundll32.exe C:\Windows\SYSTEM32\EDGEHTML.dll",#141 Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+
+svchost.exe -k UnistackSvcGroup
+
 *************************************************
 
 distro url
