@@ -62,9 +62,15 @@ https://51.68.146.19:5242/angarepPlasmophagous/P1WaaD9XaxgjV9?theatronCingulecto
 https://154.92.19.139:2222/angarepPlasmophagous/P1WaaD9XaxgjV9?theatronCingulectomy=Tagwerk&Bharti=Waxworker
 https://15.235.143.190:2224/angarepPlasmophagous/P1WaaD9XaxgjV9?theatronCingulectomy=Tagwerk&Bharti=Waxworker
 
-https://15.235.143.190:2224
-https://155.138.156.94:5243
-https://51.68.146.19:5242
-https://154.221.30.136:13724
-https://154.92.19.139:2222
+15.235.143.190:2224
+155.138.156.94:5243
+51.68.146.19:5242
+154.221.30.136:13724
+154.92.19.139:2222
+139.99.216.90:13720
+156.251.137.134:5000
+154.12.252.84:23399
+85.215.218.128:5243
+103.231.93.15:5631
+196.218.123.202:13783
 
