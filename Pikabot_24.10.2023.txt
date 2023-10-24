@@ -57,7 +57,7 @@ Updated C2's
 139.144.215.192:13785
 172.232.24.58:2226
 
-HTTPS Checking Traffic 
+HTTPS Checkin Traffic 
 
 https://15.235.143.190:2224/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
 https://51.68.146.19:5242/holdable/aeoAdIPXrgFyXmJ1?TapetaCockbilled=Procrastination
