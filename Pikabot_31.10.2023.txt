@@ -40,7 +40,5 @@ c2's
 51.79.143.215:13783
 154.61.75.156:2078
 
-
-HTTPS Checking Traffic 
-
+HTTPS Checking Traffic
 
