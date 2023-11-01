@@ -2,10 +2,14 @@
 
 *************************************************
 
+HTML Smuggling with a fresh .dll file
+
 .html 56db0c4842a63234ab7fe2dda6eeb63aa7bb68f9a456985b519122f74dea37e2
 .zip 2459ef847a5d1dbf545aaf30b3758e4cbbfee13a87d1642fcb922f5af12782ee
 .js 63b3d18919359d1e4d0bd8b325d71bd3d72d6d0c10e84659b188a53a4948792e
 .dll 23232a1df527b6e23a47634684a3b9f9902f64785ca9d7aa56d8f5c533e6deda
+
+*************************************************
 
 .js 00dceb3bc7a64da6efb7eb28a43e52ac056053bb07254224d9121e8968c37f37
 .dll 170a98b485ccf23969b2d5260101f437f6190f6be7512749d46e0c1fbe2ef61f
@@ -34,6 +38,7 @@ http://45.77.79.67/amywa/nonas
 http://49.13.94.147/1wsnrcv/lyotr
 http://64.176.193.25/i1dqr/serge
 http://64.176.212.255/jjku/pagan
+http://128.140.71.198/BN30m/Surfu
 
 *************************************************
 
@@ -58,3 +63,20 @@ https://51.79.143.215:13783/GrahamPerissodactylous/YPk8vJZ76hyzQ?wolffianismCoif
 https://154.61.75.156:2078/GrahamPerissodactylous/YPk8vJZ76hyzQ?wolffianismCoiffeurs=Damosel&Intrasegmental=hwZepe6HBfH
 https://154.61.75.156:2078/GrahamPerissodactylous/YPk8vJZ76hyzQ?wolffianismCoiffeurs=Damosel&Intrasegmental=hwZepe6HBfH
 
+172.233.154.98:13785
+15.235.47.206:13783
+154.221.30.136:13724
+15.235.202.109:2226
+50.116.54.138:13724
+45.33.85.73:13721
+172.233.185.220:5242
+154.221.30.136:13724
+
+https://172.233.154.98:13785/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://15.235.47.206:13783/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://154.221.30.136:13724/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://15.235.202.109:2226/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://50.116.54.138:13724/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://45.33.85.73:13721/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://172.233.185.220:5242/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
+https://154.221.30.136:13724/centenarians/lKPg1pFErZsGA?mbunda=Ug29Mp&PyvurilTatarization=OxychlorateUnderlings
