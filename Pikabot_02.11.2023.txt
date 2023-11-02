@@ -21,6 +21,13 @@ pIng -n 4 XBMr
 
 ruNdll32 C:\Users\Admin\AppData\Local\Temp\XBMr.sct, Crash
 
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
 
 *************************************************
 
