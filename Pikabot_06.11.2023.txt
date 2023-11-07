@@ -3,7 +3,7 @@
 *************************************************
 
 .url https://primepharma.so/nm/?1337
-.zip 16ab0c86c4ebc6afabbe01f5a6da96ca668c4036585069ef6775ad6073cb7c13
+.zip 16ab0c86c4ebc6afabbe01f5a6da96ca668c4036585069ef6775ad6073cb7c13 pw = H17
 .dll b6fc374e778c7abe998f4318b17dc4085885a81fe633da51581285fa2c46ec73
 
 *************************************************
