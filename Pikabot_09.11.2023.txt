@@ -234,3 +234,16 @@ c2'
 217.69.14.55:13724
 210.243.8.247:23399
 51.195.232.97:13782
+
+HTTPS Checking Traffic
+
+https://154.221.30.136:13724/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://149.28.49.170:23399/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://65.20.77.19:5242/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://154.12.255.254:23399/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://158.247.215.68:2225/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://95.179.206.77:13782/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://217.69.14.55:13724/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://210.243.8.247:23399/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://51.195.232.97:13782/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
+https://158.247.215.68:2225/offense/EAYnKzfbY60bQMG?Calligram=Revendicating
