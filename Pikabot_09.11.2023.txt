@@ -14,7 +14,7 @@ Spam switched to attachments using .REV -> CVE-2023-38831 -> CMD
 
 *************************************************
 
-Exec #2 - url > zip > js > dll
+Exec #1 - url > zip > js > dll
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\RCVT.js
 
