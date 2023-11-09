@@ -25,6 +25,14 @@ POWERshelL -encodedcommand cgB1AG4AZABsAGwAMwAyACAAJABlAG4AdgA6AFAAUgBPAEcAUgBBA
 
 rundll32.exe C:\ProgramData\HeelersFiorite.scr Excpt
 
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
 *************************************************
 
 .url
