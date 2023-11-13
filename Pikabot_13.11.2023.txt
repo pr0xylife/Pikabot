@@ -1,0 +1,52 @@
+13.11.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.zip 7dee650615510a49d04a9d81133ceb6e0d0efa30c54d36138e6236822bfe3383 pw = DGV
+.dll 0cd962aba91336f6b82e54c35a7afa922981cfe776607cb2a2e1b072871fe2d1
+
+*************************************************
+
+zip > .hta > .exe
+
+mshta.exe C:\Users\Admin\AppData\Local\Temp\AMETv.hta {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}
+
+https://nutrientpoints.com/z0L/Punta.exe
+
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
+*************************************************
+
+.dll distro
+
+https://nutrientpoints.com/z0L/Punta.exe
+https://brendinger.com/xlZtijz/silox.exe
+
+*************************************************
+
+c2'
+
+70.34.223.131:5938
+154.92.19.139:2222
+139.180.168.216:13786
+70.34.242.159:5243
+95.179.214.49:5242
+167.179.100.211:2221
+154.61.75.156:2078
+
+HTTPS Checking Traffic
+
+https://70.34.223.131:5938/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://154.92.19.139:2222/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://139.180.168.216:13786/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://70.34.242.159:5243/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://95.179.214.49:5242/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://167.179.100.211:2221/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://154.61.75.156:2078/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
+https://167.179.100.211:2221/Unalphabetised/9jotekq3dlYkIw?unphenomenal=J25Nb
