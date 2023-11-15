@@ -6,6 +6,9 @@
 .zip 592f4ee0f178de6162247010bf85d4eaccfa123d8a26a9db120bea1e13a830cd
 .dll ba3b6093e676d0d4ed3832efc496ad3a1b7c24e9a27574520c7b54e84b93de32
 
+.zip 95d14e055fde0847733890ca247d22a1ef9ad581389e6beead1de46d3147ff90
+.dll 
+
 *************************************************
 
 zip > .js > .exe
@@ -30,6 +33,7 @@ rundll32.exe C:\Users\Admin\AppData\Local\Temp\SlobberShoddily.conf Throw
 
 https://frensterol.com/yveu/
 https://re-tend.com/Ud0Vh/
+https://septebist.com/MPdpah/radiu
 
 *************************************************
 
@@ -52,5 +56,31 @@ https://167.179.100.211:2221/dermophyte/NFlC0ZJtasuXPVk?Hyperbrachycephal=Fiendf
 https://154.221.30.136:13724/dermophyte/NFlC0ZJtasuXPVk?Hyperbrachycephal=FiendfullyTursiops&Chronobarometer=LeanderWordages&liquableDisowned=fSImLYV
 https://154.92.19.139:2222/dermophyte/NFlC0ZJtasuXPVk?Hyperbrachycephal=FiendfullyTursiops&Chronobarometer=LeanderWordages&liquableDisowned=fSImLYV
 https://154.92.19.139:2222/dermophyte/NFlC0ZJtasuXPVk?Hyperbrachycephal=FiendfullyTursiops&Chronobarometer=LeanderWordages&liquableDisowned=fSImLYV
+
+*************************************************
+
+https://45.33.69.35:5242
+https://167.179.100.211:2221
+https://154.92.19.139:2222
+https://155.138.132.163:13786
+https://158.247.196.155:9785
+https://172.232.189.83:5243
+https://45.32.232.31:13782
+https://172.104.12.76:5242
+https://210.243.8.247:23399
+https://97.107.131.224:13782
+https://172.232.189.84:23399
+https://154.221.30.136:13724
+https://172.232.189.84:23399
+
+HTTPS Checking Traffic
+
+https://167.179.100.211:2221/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://45.33.69.35:5242/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://172.104.12.76:5242/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://155.138.132.163:13786/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://45.32.232.31:13782/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://172.232.189.84:23399/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
+https://154.221.30.136:13724/polymnestorGlaceed/TdcW8AnBbROMKP?cataracteg=Stopcocks
 
 *************************************************
