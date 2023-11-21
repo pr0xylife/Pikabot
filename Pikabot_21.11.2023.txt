@@ -48,6 +48,12 @@ c2's
 154.61.75.156:2078
 137.220.55.190:2223
 
+Updated c2's
+
+64.176.5.228:13783
+65.20.78.68:13721
+64.176.67.194:2967
+
 HTTPS Checking Traffic
 
 https://137.220.55.190:2223/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
