@@ -1,0 +1,61 @@
+21.11.2023 | Pikabot | TA577 | 1.1.15-ghost
+
+*************************************************
+
+.zip 3735e9fede6677084cf0bb6a3af3c8ec08e00882aa4fa180192d387c030d915f - pw = MG
+.img 01193e9155a79c013ea3ba070142a3ccca0c96cde502a302c37e375f18d38002
+.lnk 98d37eff504a7adb864131ea4a042aaf4d79c4356960a8ab2fa656cc59aec014
+.dll eead7f5b6f1282ad988238cc8c39292fa99ea416f7793038a20e5caabe93112a
+
+*************************************************
+
+>> Tracker database block
+   Machine ID:  vmware-suq2tnp
+   MAC Address: c7:97:20:00:d1:c8
+   MAC Vendor:  (Unknown vendor)
+   Creation:    2023-11-19 11:33:47
+
+   Volume Droid:       3a3fe196-2d7b-47a4-9648-7b36d69ddb6d
+   Volume Droid Birth: 3a3fe196-2d7b-47a4-9648-7b36d69ddb6d
+   File Droid:         80f5c651-86cf-11ee-96b3-c7972000d1c8
+   File Droid birth:   80f5c651-86cf-11ee-96b3-c7972000d1c8
+
+*************************************************
+
+zip > lnk > .dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\document.docx.lnk
+
+rundll32.exe inf2.dll,Limit
+
+SearchProtocolHost.exe
+
+whoami.exe /all
+
+ipconfig.exe /all
+
+netstat.exe -aon
+
+*************************************************
+
+c2's
+
+158.247.253.155:2225
+139.180.216.25:2967
+70.34.209.101:13720
+172.233.156.100:13721
+154.92.19.139:2222
+154.61.75.156:2078
+137.220.55.190:2223
+
+HTTPS Checking Traffic
+
+https://137.220.55.190:2223/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://139.180.216.25:2967/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://154.61.75.156:2078/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://154.92.19.139:2222/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://158.247.253.155:2225/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://172.233.156.100:13721/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+https://70.34.209.101:13720/cervicobrachial/oIP7xH86DZ6hb?vermixUnintermixed=beatersVerdigrisy&backoff=9zFPSr
+
+*************************************************
