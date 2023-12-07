@@ -4,6 +4,7 @@
 
 .url https://hideelectricsupply.com/teal/
 .url https://mardurasp.com/se/?fjLkWcdWofJCWzViUmCZnIBpsVLlGWmnNcUTKkGlDhFBcvCHzFeQglEvkfQLJQPyJrIHXtmLqWRwr >> (.pdf)
+.dll 
 .pdf 77c37435a60605c9937f1d4cb1d63c5f2be447cc06d4ebad6cdc55cd574c5d41
 .zip 2f1586c1bf55c92ca06077681f4e4f0cdb1f9a942399fdae163899e4e0f295df
 .msi d9948bc3d500cfa0af44e63ad404708642bb1471508d88f77720c1e7369ee57c
@@ -59,8 +60,37 @@ c2's
 45.32.188.56:2967
 78.141.222.198:13786
 
+46.250.241.191:13721
+45.137.192.84:2223
+64.176.218.254:9785
+161.97.97.181:2083
+210.243.8.247:23399
+154.61.75.156:2078
+154.221.30.136:13724
+64.176.225.21:2225
+65.20.74.26:2221
+
 HTTPS Checking Traffic 
 
 
+https://192.248.151.140:23399/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://108.61.224.209:2967/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://216.128.136.231:13786/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://139.84.235.8:2225/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://154.221.30.136:13724/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://210.243.8.247:23399/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://45.32.235.46:5242/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://45.32.188.56:2967/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+https://78.141.222.198:13786/prosabbatical/4vPvU918g1sKCJV?Fummel=IFfKa&nonaccommodating=5veOCi&LeptomeDecaffeinate=eRwOR7wObCc3DyA
+
+https://46.250.241.191:13721/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://45.137.192.84:2223/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://64.176.218.254:9785/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://161.97.97.181:2083/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://210.243.8.247:23399/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://154.61.75.156:2078/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://154.221.30.136:13724/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://64.176.225.21:2225/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
+https://65.20.74.26:2221/Septibranchiata/0Ks0OROrheWMXy?ConjurisonHarmonizable=5gQbDik
 
 *************************************************
