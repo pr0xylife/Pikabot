@@ -1,0 +1,66 @@
+07.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.url https://hideelectricsupply.com/teal/
+.url https://mardurasp.com/se/?fjLkWcdWofJCWzViUmCZnIBpsVLlGWmnNcUTKkGlDhFBcvCHzFeQglEvkfQLJQPyJrIHXtmLqWRwr >> (.pdf)
+.pdf 77c37435a60605c9937f1d4cb1d63c5f2be447cc06d4ebad6cdc55cd574c5d41
+.zip 2f1586c1bf55c92ca06077681f4e4f0cdb1f9a942399fdae163899e4e0f295df
+.msi d9948bc3d500cfa0af44e63ad404708642bb1471508d88f77720c1e7369ee57c
+.dll 0c48417e3b1cdb0785c3bf3f2108fc1b0c00022f9079388e95348ceb5ff3e6b5
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	SOFT BLANKET LTD
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2023-11-03T20:27:04Z
+Valid to:	2024-11-02T20:27:04Z
+Serial number:	 3aee1200d91ed3572e26a5cf6100d6f1
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 38165af7ef4861e8efdb51657404facee375cf33f50a18f213f104b2e661df57
+
+*************************************************
+
+url > zip > msi > dll
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\Okl.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 71EEB219A5817C64B1F13427E896467B
+
+rundll32.exe C:\Windows\Installer\MSI3227.tmp,zzzzInvokeManagedCustomActionOutOfProc SfxCA_240661265 2 test.old.cs!Test.CustomActions.MyAction
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\tmp3E2D.dll,Enter
+
+SearchProtocolHost.exe
+
+vssvc.exe
+
+svchost.exe -k netsvcs -s DsmSvc
+
+vssvc.exe
+
+*************************************************
+
+c2's
+
+192.248.151.140:23399
+108.61.224.209:2967
+216.128.136.231:13786
+139.84.235.8:2225
+154.221.30.136:13724
+210.243.8.247:23399
+45.32.235.46:5242
+45.32.188.56:2967
+78.141.222.198:13786
+
+HTTPS Checking Traffic 
+
+
+
+*************************************************
