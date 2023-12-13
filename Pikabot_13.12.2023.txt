@@ -54,6 +54,18 @@ c2's
 95.179.212.178:13782
 172.232.163.208:2224
 
+Updated c2's
+
+149.28.17.176:1194
+64.176.66.137:5000
+45.32.253.21:2083
+172.232.164.77:5000
+199.247.8.136:13786
+172.232.163.111:5938
+107.191.47.85:5243
+192.248.183.93:5632
+
+
 HTTPS Checking Traffic
 
 https://154.61.75.156:2078/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
