@@ -3,6 +3,7 @@
 *************************************************
 
 .url https://souq-alshashat.com/sia/
+.pdf 4c0fa59d0417f543444a338654cf5a3a1f7bf1aab9c900ade77aba15af0f7343
 .zip ab288923f9cd681f02aabd023a3c7c167490dfbab639b7ae07f5bc1517f2cb7a
 .dll a93fb9f75e3a93a7334c24f60b3ede274f51ac87c07d7b45320a0081867de2df
 
