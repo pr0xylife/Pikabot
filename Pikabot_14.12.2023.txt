@@ -65,6 +65,8 @@ c2's
 57.128.164.11:5242
 172.232.175.59:5938
 
+HTTPS Checking Traffic
+
 https://172.232.175.59:5938/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
 https://172.232.173.219:5938/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
 https://57.128.108.132:13785/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
