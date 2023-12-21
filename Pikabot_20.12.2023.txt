@@ -6,6 +6,9 @@
 .zip 90fca96cc2e6e56e77c2f948ad7a81cd8ad5b2ad9629a2bd2c02985130b8db23
 .dll d26495a0b13b29e753e31f35dcc7d3d630aae2c163365de519f895e678c65b13
 
+.zip
+.dll
+
 *************************************************
 
 url > zip > js > curl > .dll
