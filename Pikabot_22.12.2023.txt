@@ -7,6 +7,9 @@
 .zip 2e53d6eb8f0d96b6c371089f44954e1b3a73159ceb7076e8824e5081eb9a748f
 .dll 16d318c6335fffd2f2d2f1629edfa0c39bbe99cc77030d4601d43f6315c13e02
 
+.zip d95c987423f2a2df57dccd6d9457804edddf58e28ba59cf22e8efc6beee7da09
+.dll 374d1476191b32a90334ec0f874949e14c4ce2d8098294b4e322cccdcf6dbe32
+
 *************************************************
 
 pdf > url > zip > js > curl > .dll
