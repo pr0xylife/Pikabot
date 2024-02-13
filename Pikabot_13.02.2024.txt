@@ -1,0 +1,55 @@
+13.02.2024 | Pikabot | TA577 | 
+
+*************************************************
+
+.zip d4bc0db353dd0051792dd1bfd5a286d3f40d735e21554802978a97599205bd04
+.jar d26ab01b293b2d439a20d1dffc02a5c9f2523446d811192836e26d370a34d1b4
+.dll 7b1c5147c903892f8888f91c98097c89e419ddcc89958a33e294e6dd192b6d4e
+
+*************************************************
+
+Code Signing Certificate
+Organisation:  Talk Invest ApS
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2024-01-19T13:11:25Z
+Valid to:   2025-01-18T13:11:25Z
+Serial number:  79695808028c2494541535419610a4e0
+Thumbprint Algorithm:   SHA256
+Thumbprint:  aed10cee78c2d2726eccb73d9c248f53f87185492518bdd02c6de94b4087367d
+
+*************************************************
+
+zip > .jar > .dll
+
+java -jar C:\Users\Admin\AppData\Local\Temp\PERFERENDISF\PERFERENDISF.jar
+
+icacls.exe C:\ProgramData\Oracle\Java\.oracle_jre_usage /grant "everyone":(OI)(CI)M
+
+regsvr32 /s C:\Users\Admin\AppData\Local\Temp\\163520.png
+
+regsvr32.exe /s C:\Users\Admin\AppData\Local\Temp\\163520.png
+
+ctfmon.exe -p 1234
+
+*************************************************
+
+
+
+*************************************************
+
+c2's
+
+86.38.225.106:2221
+104.129.55.106:13783
+23.226.138.161:5242
+45.32.248.100:2226
+45.76.251.190:5631
+103.82.243.5:13785
+104.129.55.105:2223
+37.60.242.86:2967
+23.226.138.161:5242
+37.60.242.86:2967
+
+
+*************************************************
