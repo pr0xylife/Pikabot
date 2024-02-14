@@ -1,8 +1,8 @@
-14.02.2024 | Pikabot | TA577 | 1.8.32-beta
+14.02.2024 | Pikabot | TA577 | 1.8.32-beta 
 
 *************************************************
 
-.zip 184e53af04ff158a22facbe4499694223462bfed7d6c96e83ec1be69272348e4
+.zip 184e53af04ff158a22facbe4499694223462bfed7d6c96e83ec1be69272348e4 - pw = HJ
 .jar 9e22ec6b12cda4c1de28a8b8b074a05c56ffaaa120b3f2bb841b32492cfb6d0a
 .dll 184e53af04ff158a22facbe4499694223462bfed7d6c96e83ec1be69272348e4
 
