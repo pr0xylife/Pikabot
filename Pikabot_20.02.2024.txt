@@ -1,0 +1,66 @@
+20.02.2024 | Pikabot | TA577 | 1.8.32-beta
+
+*************************************************
+
+.zip ed0f7e2df341cfad8f80459128810997464ce478b579432f227aa466a485363a
+.exe 3a993c44e39c426239051b00aa692b7e7d1b6092a2087af04b3f3bc3a3c79208
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	4leaf Holding Corp.
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2024-01-26T19:53:50Z
+Valid to:	2025-01-25T19:53:50Z
+Serial number:	 5e90650175692086f73dd05ee14b3da5
+Intelligence:	 11 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 1dda515eb6c730f5169301c95163d9b30c1b26d46765930b2d3e9fd9b51e02bb
+
+*************************************************
+
+url > zip > smb > .exe
+
+AEDT.exe
+
+ctfmon.exe -p 1234
+
+*************************************************
+
+SMB Shares e.g file://allterra24.com/public/
+
+allterra24.com/public/
+funredblog.com/public/
+introwebllc.com/public/
+newssocialwork.com/public/
+powerglobalstore.com/public/
+realsleeper.com/public/
+vendercompany.com/public/
+yournutrientsolutions.com/public/
+
+*************************************************
+
+c2's
+
+https://89.117.23.34:5938
+https://37.60.242.85:9785
+https://86.38.225.106:2221
+https://89.117.23.185:2221
+https://57.128.165.176:13721
+https://141.95.106.106:2967
+https://178.18.246.136:2078
+https://154.12.248.41:5000
+https://145.239.135.24:5243
+https://103.82.243.5:13785
+https://23.226.138.161:5242
+https://89.117.23.186:5632
+https://23.226.138.143:2083
+https://148.113.141.220:2224
+https://154.38.175.241:13721
+https://109.199.99.131:13721
+https://154.12.233.66:2224
+https://104.129.55.105:2223
+https://23.226.138.161:5242
+
+*************************************************
