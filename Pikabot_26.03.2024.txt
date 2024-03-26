@@ -32,6 +32,9 @@ attrib.exe +h C:/rjtu/
 
 *************************************************
 
+Distro urls
+
+file://170.130.55.130/share/
 https://ingatecsus.com.br/assumendaipsam/Point.exe
 
 *************************************************
